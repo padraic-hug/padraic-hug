@@ -1,5 +1,5 @@
 ### I'm Padraic, a computational structural biologist, Utrecht University, NL 👋
-## Welcome to my Git userpage, where you may see my contributions to academic projects as well as some side projects!
+#### Welcome to my Git userpage, where you may see my contributions to academic projects as well as some side projects!
 <!--
 **padraic-hug/padraic-hug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
